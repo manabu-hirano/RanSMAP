@@ -23,7 +23,7 @@ When using this dataset in your research or other purpose, please cite the follo
 
 In addition to the above citations, you can use this dataset under the license in [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
 
-## How to obtain this dataset
+## Download
 
 You can clone this repository or download the ZIP archive from the following Kaggle site:
 https://www.kaggle.com/datasets/hiranomanabu/ransmap-2024-ransomware-behavioral-features/
