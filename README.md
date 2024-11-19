@@ -11,13 +11,13 @@ This dataset can be used to examine the capability and limitations of low-level 
 
 You can read the following open-access paper for more details about the dataset.
 
-- [1] M. Hirano and R. Kobayashi, "RanSMAP: Open Dataset of Ransomware Storage and Memory Access Patterns for Creating Deep Learning Based Ransomware Detectors." (To appear)
+- [1] M. Hirano and R. Kobayashi, "RanSMAP: Open Dataset of Ransomware Storage and Memory Access Patterns for Creating Deep Learning Based Ransomware Detectors." Computers & Security, 2024, 104202, ISSN 0167-4048, https://doi.org/10.1016/j.cose.2024.104202.
 
 ## Terms of use / License
 
 When using this dataset in your research or other purpose, please cite the following two papers:
 
-- [1] M. Hirano and R. Kobayashi, "RanSMAP: Open Dataset of Ransomware Storage and Memory Access Patterns for Creating Deep Learning Based Ransomware Detectors." (To appear)
+- [1] M. Hirano and R. Kobayashi, "RanSMAP: Open Dataset of Ransomware Storage and Memory Access Patterns for Creating Deep Learning Based Ransomware Detectors." Computers & Security, 2024, 104202, ISSN 0167-4048, https://doi.org/10.1016/j.cose.2024.104202.
 
 - [2] M. Hirano and R. Kobayashi, "Machine Learning-based Ransomware Detection Using Low-level Memory Access Patterns Obtained From Live-forensic Hypervisor" In proceedings of 2022 IEEE International Conference on Cyber Security and Resilience (CSR), 2022, pp. 323-330, https://doi.org/10.1109/CSR54599.2022.9850340.
 
